@@ -6,9 +6,15 @@
   <li>The Office</li>
   <li>Ozark</li>
   <li>Eastbound and Down</li>
-  <a href="jordan.r.hanks@outlook.com">jordan.r.hanks@outlook.com</a>
+  <br>
   
- 
+  Email at
+  
+  <a href="jordan.r.hanks@outlook.com">jordan.r.hanks@outlook.com</a>
+  <br>
+  
+  Visit
+  
   <a href="https://www.ccsf.edu/">CCSF HOME</a>
     
   
