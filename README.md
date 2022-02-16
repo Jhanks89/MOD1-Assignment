@@ -9,8 +9,9 @@
   <br>
   
   Email at
-  
+  <address>
   <a href="jordan.r.hanks@outlook.com">jordan.r.hanks@outlook.com</a>
+  </address>
   <br>
   
   Visit
